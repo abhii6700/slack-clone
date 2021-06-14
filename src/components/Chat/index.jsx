@@ -123,5 +123,5 @@ const ChatContainer = styled.div`
 const ChatMessages = styled.div``;
 
 const ChatBottom = styled.div`
-padding-bottom: 100px
+padding-bottom: 200px
 `;
